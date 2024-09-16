@@ -6,12 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzad654" alt="shahzad654" /></a> </p>
 
 - Project 1:- [Crop Doc](https://github.com/Shahzad654/CropDoc)
-
-- 🌱 I’m currently learning **Firebase**
-
 - Project 2:- [Legacy Locator](https://github.com/Shahzad654/LegacyLocator)
-
 - Project 3:- [Fitness Chatbot](https://github.com/Shahzad654/Fitness-Chat-Bot)
+- Project 4:- [Chat App]((https://github.com/Shahzad654/Chat-App))
+  
+- 🌱 I’m currently learning **Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shahzad654](https://github.com/Shahzad654)
 
