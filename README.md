@@ -8,7 +8,7 @@
 - Project 1:- [Crop Doc](https://github.com/Shahzad654/CropDoc)
 - Project 2:- [Legacy Locator](https://github.com/Shahzad654/LegacyLocator)
 - Project 3:- [Fitness Chatbot](https://github.com/Shahzad654/Fitness-Chat-Bot)
-- Project 4:- [Chat App]((https://github.com/Shahzad654/Chat-App))
+- Project 4:- [Chat App](https://github.com/Shahzad654/Chat-App)
   
 - 🌱 I’m currently learning **Firebase**
 
